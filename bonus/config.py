@@ -1,0 +1,1 @@
+pw : 'postgresql://postgres:postgres@localhost:5432/sql_challenge'
